@@ -4,9 +4,5 @@
 Some simple configuration of the initialization of the project, after crawling can be directly related to the development.
 
 
-# cocos-js
-Computer System: macOS Sierra v10.12.6
-
-IDE:Cocos Creator v1.9.1
-
-Language: JavaScript
+# cocos-js 
+https://github.com/nolongerhesitate/NewProject/tree/master/cocos-js
