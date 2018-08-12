@@ -6,5 +6,7 @@ Some simple configuration of the initialization of the project, after crawling c
 
 # cocos-js
 Computer System: macOS Sierra v10.12.6
+
 IDE:Cocos Creator v1.9.1
+
 Language: JavaScript
